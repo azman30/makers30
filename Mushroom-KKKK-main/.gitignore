@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+mushroom_client.db
+
+
+
+# Datasets and logs
+*.csv
+*.xlsx
+smartsense_readings.csv
+
+# IDEs
+.vscode/
+.idea/

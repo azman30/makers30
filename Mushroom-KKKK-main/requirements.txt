@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+scikit-learn
+ultralytics
+requests
+numpy
+Pillow
+lxml
+html5lib
+paho-mqtt
